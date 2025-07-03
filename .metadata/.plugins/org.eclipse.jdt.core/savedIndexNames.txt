@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Cursos\DIO\BootCamp Santander 06-2025\Java-basico\Projeto\Diagramacao_iphone\.metadata\.plugins\org.eclipse.jdt.core
+52729203.index
+515927805.index
